@@ -1,0 +1,419 @@
+2021-06-24 21:47:24.650 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 21:47:24.650 [main] INFO  utilities.BaseClass:21 - Opening browser
+2021-06-24 21:47:26.182 [main] INFO  utilities.BaseClass:58 - Opening New Tours application
+2021-06-24 21:47:28.955 [main] DEBUG utilities.TestUtil:58 - Option Selected from dropdown(by text): ANGOLA
+2021-06-24 21:47:30.623 [main] INFO  NewToursSteps:37 - Expected : Note: Your user name is Gareth. | Actual : Note: Your user name is Gareth.
+2021-06-24 21:47:31.636 [main] INFO  utilities.BaseClass:36 - Closing browser
+2021-06-24 21:47:33.134 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 21:47:33.135 [main] INFO  utilities.BaseClass:21 - Opening browser
+2021-06-24 21:47:34.583 [main] INFO  utilities.BaseClass:58 - Opening New Tours application
+2021-06-24 21:47:37.073 [main] DEBUG utilities.TestUtil:58 - Option Selected from dropdown(by text): ZAMBIA
+2021-06-24 21:47:38.800 [main] INFO  NewToursSteps:37 - Expected : Note: Your user name is Bill. | Actual : Note: Your user name is Bill.
+2021-06-24 21:47:39.706 [main] INFO  utilities.BaseClass:36 - Closing browser
+2021-06-24 21:47:41.160 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 21:47:41.160 [main] INFO  utilities.BaseClass:21 - Opening browser
+2021-06-24 21:47:42.598 [main] INFO  utilities.BaseClass:58 - Opening New Tours application
+2021-06-24 21:47:44.715 [main] DEBUG utilities.TestUtil:58 - Option Selected from dropdown(by text): ITALY
+2021-06-24 21:47:46.416 [main] INFO  NewToursSteps:37 - Expected : Note: Your user name is Jim. | Actual : Note: Your user name is Jim.
+2021-06-24 21:47:47.342 [main] INFO  utilities.BaseClass:36 - Closing browser
+2021-06-24 21:52:32.370 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 21:52:32.377 [main] INFO  utilities.BaseClass:21 - Opening browser
+2021-06-24 21:52:33.849 [main] INFO  utilities.BaseClass:58 - Opening New Tours application
+2021-06-24 21:52:37.085 [main] DEBUG NewToursSteps:58 - Option Selected from dropdown(by text): ANGOLA
+2021-06-24 21:52:39.383 [main] INFO  NewToursSteps:37 - Expected : Note: Your user name is Gareth. | Actual : Note: Your user name is Gareth.
+2021-06-24 21:52:40.452 [main] INFO  utilities.BaseClass:36 - Closing browser
+2021-06-24 21:52:42.047 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 21:52:42.047 [main] INFO  utilities.BaseClass:21 - Opening browser
+2021-06-24 21:52:43.483 [main] INFO  utilities.BaseClass:58 - Opening New Tours application
+2021-06-24 21:52:47.712 [main] DEBUG NewToursSteps:58 - Option Selected from dropdown(by text): ZAMBIA
+2021-06-24 21:52:49.441 [main] INFO  NewToursSteps:37 - Expected : Note: Your user name is Bill. | Actual : Note: Your user name is Bill.
+2021-06-24 21:52:50.346 [main] INFO  utilities.BaseClass:36 - Closing browser
+2021-06-24 21:52:51.866 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 21:52:51.866 [main] INFO  utilities.BaseClass:21 - Opening browser
+2021-06-24 21:52:53.294 [main] INFO  utilities.BaseClass:58 - Opening New Tours application
+2021-06-24 21:52:55.898 [main] DEBUG NewToursSteps:58 - Option Selected from dropdown(by text): ITALY
+2021-06-24 21:52:57.724 [main] INFO  NewToursSteps:37 - Expected : Note: Your user name is Jim. | Actual : Note: Your user name is Jim.
+2021-06-24 21:52:58.729 [main] INFO  utilities.BaseClass:36 - Closing browser
+2021-06-24 21:57:34.629 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 21:57:34.640 [main] INFO  utilities.BaseClass:21 - Opening browser for NewTours application
+2021-06-24 21:57:36.142 [main] INFO  utilities.BaseClass:58 - Opening New Tours application
+2021-06-24 21:57:39.222 [main] DEBUG NewToursSteps:58 - Option Selected from dropdown(by text): ANGOLA
+2021-06-24 21:57:40.944 [main] INFO  NewToursSteps:37 - Expected : Note: Your user name is Gareth. | Actual : Note: Your user name is Gareth.
+2021-06-24 21:57:41.855 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 21:57:43.555 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 21:57:43.555 [main] INFO  utilities.BaseClass:21 - Opening browser for NewTours application
+2021-06-24 21:57:44.985 [main] INFO  utilities.BaseClass:58 - Opening New Tours application
+2021-06-24 21:57:47.133 [main] DEBUG NewToursSteps:58 - Option Selected from dropdown(by text): ZAMBIA
+2021-06-24 21:57:48.650 [main] INFO  NewToursSteps:37 - Expected : Note: Your user name is Bill. | Actual : Note: Your user name is Bill.
+2021-06-24 21:57:49.546 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 21:57:51.113 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 21:57:51.113 [main] INFO  utilities.BaseClass:21 - Opening browser for NewTours application
+2021-06-24 21:57:52.414 [main] INFO  utilities.BaseClass:58 - Opening New Tours application
+2021-06-24 21:57:54.593 [main] DEBUG NewToursSteps:58 - Option Selected from dropdown(by text): ITALY
+2021-06-24 21:57:56.138 [main] INFO  NewToursSteps:37 - Expected : Note: Your user name is Jim. | Actual : Note: Your user name is Jim.
+2021-06-24 21:57:56.974 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 21:59:15.890 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 21:59:15.898 [main] INFO  utilities.BaseClass:35 - Opening browser for Air Asia application
+2021-06-24 21:59:23.085 [main] INFO  utilities.BaseClass:66 - Opening Air Asia application
+2021-06-24 21:59:48.859 [main] DEBUG AirAsiaSteps:69 - Clicked on Search
+2021-06-24 21:59:52.310 [main] DEBUG AirAsiaSteps:80 - Current Window: CDwindow-BE0EACD3C27CC227C16D9C929FA618A9
+2021-06-24 21:59:52.310 [main] DEBUG AirAsiaSteps:82 - Windows returned: CDwindow-BE0EACD3C27CC227C16D9C929FA618A9
+2021-06-24 21:59:52.310 [main] DEBUG AirAsiaSteps:82 - Windows returned: CDwindow-3944B9CE901D16A19113240C1FB534B5
+2021-06-24 21:59:52.310 [main] DEBUG AirAsiaSteps:84 - Inside if block working on Window CDwindow-3944B9CE901D16A19113240C1FB534B5
+2021-06-24 22:00:07.362 [main] INFO  AirAsiaSteps:98 - Alert closed in catch block
+2021-06-24 22:00:07.362 [main] INFO  AirAsiaSteps:101 - Expected title: Del Carmen IAO – London LHR trips | Actual title: Del Carmen IAO‎ – London LHR‎ trips
+2021-06-24 22:00:07.754 [main] INFO  AirAsiaFlightSearchPage:32 - Count of Flights found: 4
+2021-06-24 22:00:07.769 [main] DEBUG AirAsiaFlightSearchPage:34 - £452
+2021-06-24 22:00:07.783 [main] DEBUG AirAsiaFlightSearchPage:34 - £600
+2021-06-24 22:00:07.797 [main] DEBUG AirAsiaFlightSearchPage:34 - £623
+2021-06-24 22:00:07.808 [main] DEBUG AirAsiaFlightSearchPage:34 - £677
+2021-06-24 22:00:07.811 [main] INFO  AirAsiaSteps:108 - Total Flight search count : 4
+2021-06-24 22:00:08.945 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:00:10.506 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:00:10.506 [main] INFO  utilities.BaseClass:28 - Opening browser for Automation Practice application
+2021-06-24 22:00:13.981 [main] INFO  utilities.BaseClass:62 - Opening Automation Practice application
+2021-06-24 22:00:16.246 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (93d122c2669fde22b4f92bf3fbd87620)] -> xpath: //a[contains(text(),'Sign in')]]
+2021-06-24 22:00:17.048 [main] DEBUG AutomationPracticeSteps:49 - Entered text, samuel.lind@gmail.com in text box
+2021-06-24 22:00:17.251 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (93d122c2669fde22b4f92bf3fbd87620)] -> xpath: //button[@id='SubmitCreate']]
+2021-06-24 22:00:17.566 [main] DEBUG AutomationPracticeSteps:63 - Expected Page Title: Login - My Store | Actual Page Title: Login - My Store
+2021-06-24 22:00:19.068 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (93d122c2669fde22b4f92bf3fbd87620)] -> id: id_gender1]
+2021-06-24 22:00:19.364 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Lane in text box
+2021-06-24 22:00:19.608 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Labadie in text box
+2021-06-24 22:00:19.863 [main] DEBUG AutomationPracticeSteps:49 - Entered text, juliane.kilback@yahoo.com in text box
+2021-06-24 22:00:20.110 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 21212121 in text box
+2021-06-24 22:00:20.544 [main] DEBUG AutomationPracticeSteps:70 - Option Selected from dropdown(by value): 27
+2021-06-24 22:00:20.962 [main] DEBUG AutomationPracticeSteps:70 - Option Selected from dropdown(by value): 9
+2021-06-24 22:00:21.383 [main] DEBUG AutomationPracticeSteps:70 - Option Selected from dropdown(by value): 2000
+2021-06-24 22:00:21.651 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Bobby in text box
+2021-06-24 22:00:21.889 [main] DEBUG AutomationPracticeSteps:49 - Entered text, West in text box
+2021-06-24 22:00:22.175 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 54821 in text box
+2021-06-24 22:00:22.416 [main] DEBUG AutomationPracticeSteps:49 - Entered text, West Junior in text box
+2021-06-24 22:00:22.799 [main] DEBUG AutomationPracticeSteps:58 - Option Selected from dropdown(by text): Delaware
+2021-06-24 22:00:23.162 [main] DEBUG AutomationPracticeSteps:58 - Option Selected from dropdown(by text): United States
+2021-06-24 22:00:23.415 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 80808 in text box
+2021-06-24 22:00:23.662 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 09804823 in text box
+2021-06-24 22:00:23.916 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Home Address in text box
+2021-06-24 22:00:25.387 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+2021-06-24 22:00:26.097 [main] DEBUG AutomationPracticeSteps:63 - Expected Page Title: My account - My Store | Actual Page Title: My account - My Store
+2021-06-24 22:00:26.979 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:00:28.514 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:00:28.514 [main] INFO  utilities.BaseClass:28 - Opening browser for Automation Practice application
+2021-06-24 22:00:31.719 [main] INFO  utilities.BaseClass:62 - Opening Automation Practice application
+2021-06-24 22:00:34.041 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (aad204a98d7822b34e117fe50cca1a84)] -> xpath: //a[contains(text(),'Sign in')]]
+2021-06-24 22:00:34.643 [main] DEBUG AutomationPracticeSteps:49 - Entered text, andres.howe@hotmail.com in text box
+2021-06-24 22:00:34.826 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (aad204a98d7822b34e117fe50cca1a84)] -> xpath: //button[@id='SubmitCreate']]
+2021-06-24 22:00:35.104 [main] DEBUG AutomationPracticeSteps:63 - Expected Page Title: Login - My Store | Actual Page Title: Login - My Store
+2021-06-24 22:00:37.095 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (aad204a98d7822b34e117fe50cca1a84)] -> id: id_gender1]
+2021-06-24 22:00:37.362 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Elizbeth in text box
+2021-06-24 22:00:37.602 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Schowalter in text box
+2021-06-24 22:00:37.877 [main] DEBUG AutomationPracticeSteps:49 - Entered text, brian.simonis@gmail.com in text box
+2021-06-24 22:00:38.141 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 21212121 in text box
+2021-06-24 22:00:38.571 [main] DEBUG AutomationPracticeSteps:70 - Option Selected from dropdown(by value): 27
+2021-06-24 22:00:38.997 [main] DEBUG AutomationPracticeSteps:70 - Option Selected from dropdown(by value): 9
+2021-06-24 22:00:39.397 [main] DEBUG AutomationPracticeSteps:70 - Option Selected from dropdown(by value): 2000
+2021-06-24 22:00:39.657 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Loris in text box
+2021-06-24 22:00:39.900 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Friesen in text box
+2021-06-24 22:00:40.136 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 60284 in text box
+2021-06-24 22:00:40.407 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Vetamouth in text box
+2021-06-24 22:00:40.811 [main] DEBUG AutomationPracticeSteps:58 - Option Selected from dropdown(by text): Indiana
+2021-06-24 22:00:41.164 [main] DEBUG AutomationPracticeSteps:58 - Option Selected from dropdown(by text): United States
+2021-06-24 22:00:41.416 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 80808 in text box
+2021-06-24 22:00:41.636 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 09804823 in text box
+2021-06-24 22:00:41.906 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Business Address in text box
+2021-06-24 22:00:43.422 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+2021-06-24 22:00:44.124 [main] DEBUG AutomationPracticeSteps:63 - Expected Page Title: My account - My Store | Actual Page Title: My account - My Store
+2021-06-24 22:00:45.050 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:00:46.578 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:00:46.578 [main] INFO  utilities.BaseClass:28 - Opening browser for Automation Practice application
+2021-06-24 22:00:49.622 [main] INFO  utilities.BaseClass:62 - Opening Automation Practice application
+2021-06-24 22:00:52.108 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (eb1f6f5966fa8eb58b2df926bebfba7c)] -> xpath: //a[contains(text(),'Sign in')]]
+2021-06-24 22:00:52.461 [main] INFO  AutomationPracticeSteps:49 - Cleared email field
+2021-06-24 22:00:52.611 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (eb1f6f5966fa8eb58b2df926bebfba7c)] -> xpath: //button[@id='SubmitCreate']]
+2021-06-24 22:00:52.611 [main] INFO  AutomationPracticeSteps:51 - Clicked on Create Account Button
+2021-06-24 22:00:53.407 [main] INFO  AutomationPracticeSteps:82 - Expected text: Invalid email address. | Actual text: Invalid email address.
+2021-06-24 22:00:54.313 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:00:56.146 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:00:56.146 [main] INFO  utilities.BaseClass:21 - Opening browser for NewTours application
+2021-06-24 22:00:57.510 [main] INFO  utilities.BaseClass:58 - Opening New Tours application
+2021-06-24 22:00:59.512 [main] DEBUG NewToursSteps:58 - Option Selected from dropdown(by text): ANGOLA
+2021-06-24 22:01:01.103 [main] INFO  NewToursSteps:37 - Expected : Note: Your user name is Gareth. | Actual : Note: Your user name is Gareth.
+2021-06-24 22:01:02.004 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:01:03.485 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:01:03.485 [main] INFO  utilities.BaseClass:21 - Opening browser for NewTours application
+2021-06-24 22:01:05.024 [main] INFO  utilities.BaseClass:58 - Opening New Tours application
+2021-06-24 22:01:06.999 [main] DEBUG NewToursSteps:58 - Option Selected from dropdown(by text): ZAMBIA
+2021-06-24 22:01:08.853 [main] INFO  NewToursSteps:37 - Expected : Note: Your user name is Bill. | Actual : Note: Your user name is Bill.
+2021-06-24 22:01:09.835 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:01:11.605 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:01:11.606 [main] INFO  utilities.BaseClass:21 - Opening browser for NewTours application
+2021-06-24 22:01:13.102 [main] INFO  utilities.BaseClass:58 - Opening New Tours application
+2021-06-24 22:01:15.230 [main] DEBUG NewToursSteps:58 - Option Selected from dropdown(by text): ITALY
+2021-06-24 22:01:16.976 [main] INFO  NewToursSteps:37 - Expected : Note: Your user name is Jim. | Actual : Note: Your user name is Jim.
+2021-06-24 22:01:17.906 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:04:35.770 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:04:35.782 [main] INFO  utilities.BaseClass:35 - Opening browser for Air Asia application
+2021-06-24 22:04:40.856 [main] INFO  utilities.BaseClass:66 - Opening Air Asia application
+2021-06-24 22:05:06.520 [main] DEBUG AirAsiaSteps:69 - Clicked on Search
+2021-06-24 22:05:10.902 [main] DEBUG AirAsiaSteps:80 - Current Window: CDwindow-ABC0C6E72C7D7BE31AB4E4AED7B87F88
+2021-06-24 22:05:10.903 [main] DEBUG AirAsiaSteps:82 - Windows returned: CDwindow-ABC0C6E72C7D7BE31AB4E4AED7B87F88
+2021-06-24 22:05:10.903 [main] DEBUG AirAsiaSteps:82 - Windows returned: CDwindow-C49199AD2C929529C925964970AA17FA
+2021-06-24 22:05:10.904 [main] DEBUG AirAsiaSteps:84 - Inside if block working on Window CDwindow-C49199AD2C929529C925964970AA17FA
+2021-06-24 22:05:23.361 [main] INFO  AirAsiaSteps:98 - Alert closed in catch block
+2021-06-24 22:05:23.361 [main] INFO  AirAsiaSteps:101 - Expected title: Del Carmen IAO – London LHR trips | Actual title: Del Carmen IAO‎ – London LHR‎ trips
+2021-06-24 22:05:23.733 [main] INFO  AirAsiaFlightSearchPage:32 - Count of Flights found: 4
+2021-06-24 22:05:23.748 [main] DEBUG AirAsiaFlightSearchPage:34 - £452
+2021-06-24 22:05:23.760 [main] DEBUG AirAsiaFlightSearchPage:34 - £600
+2021-06-24 22:05:23.772 [main] DEBUG AirAsiaFlightSearchPage:34 - £623
+2021-06-24 22:05:23.783 [main] DEBUG AirAsiaFlightSearchPage:34 - £672
+2021-06-24 22:05:23.783 [main] INFO  AirAsiaSteps:108 - Total Flight search count : 4
+2021-06-24 22:05:24.740 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:05:26.333 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:05:26.333 [main] INFO  utilities.BaseClass:28 - Opening browser for Automation Practice application
+2021-06-24 22:05:31.216 [main] INFO  utilities.BaseClass:62 - Opening Automation Practice application
+2021-06-24 22:05:34.565 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Sign in')]'
+2021-06-24 22:05:36.035 [main] DEBUG AutomationPracticeSteps:49 - Entered text, mohammed.bergstrom@hotmail.com in text box
+2021-06-24 22:05:36.220 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (c08b7773c0dc689b847b595d5befd1a2)] -> xpath: //button[@id='SubmitCreate']]
+2021-06-24 22:05:36.542 [main] DEBUG AutomationPracticeSteps:63 - Expected Page Title: Login - My Store | Actual Page Title: Login - My Store
+2021-06-24 22:05:38.551 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (c08b7773c0dc689b847b595d5befd1a2)] -> id: id_gender1]
+2021-06-24 22:05:38.851 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Deangelo in text box
+2021-06-24 22:05:39.110 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Beatty in text box
+2021-06-24 22:05:39.418 [main] DEBUG AutomationPracticeSteps:49 - Entered text, judith.kohler@hotmail.com in text box
+2021-06-24 22:05:39.675 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 21212121 in text box
+2021-06-24 22:05:40.141 [main] DEBUG AutomationPracticeSteps:70 - Option Selected from dropdown(by value): 27
+2021-06-24 22:05:40.547 [main] DEBUG AutomationPracticeSteps:70 - Option Selected from dropdown(by value): 9
+2021-06-24 22:05:40.966 [main] DEBUG AutomationPracticeSteps:70 - Option Selected from dropdown(by value): 2000
+2021-06-24 22:05:41.195 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Erinn in text box
+2021-06-24 22:05:41.409 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Langosh in text box
+2021-06-24 22:05:41.694 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 322 in text box
+2021-06-24 22:05:41.934 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Lake Jamieview in text box
+2021-06-24 22:05:42.328 [main] DEBUG AutomationPracticeSteps:58 - Option Selected from dropdown(by text): Delaware
+2021-06-24 22:05:42.683 [main] DEBUG AutomationPracticeSteps:58 - Option Selected from dropdown(by text): United States
+2021-06-24 22:05:42.923 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 80808 in text box
+2021-06-24 22:05:43.162 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 09804823 in text box
+2021-06-24 22:05:43.368 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Home Address in text box
+2021-06-24 22:05:45.617 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+2021-06-24 22:05:46.341 [main] DEBUG AutomationPracticeSteps:63 - Expected Page Title: My account - My Store | Actual Page Title: My account - My Store
+2021-06-24 22:05:47.269 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:05:48.776 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:05:48.777 [main] INFO  utilities.BaseClass:28 - Opening browser for Automation Practice application
+2021-06-24 22:05:51.880 [main] INFO  utilities.BaseClass:62 - Opening Automation Practice application
+2021-06-24 22:05:54.445 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (feb7e490971764744ee70904c22eefe9)] -> xpath: //a[contains(text(),'Sign in')]]
+2021-06-24 22:05:55.071 [main] DEBUG AutomationPracticeSteps:49 - Entered text, lamar.russel@yahoo.com in text box
+2021-06-24 22:05:55.276 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (feb7e490971764744ee70904c22eefe9)] -> xpath: //button[@id='SubmitCreate']]
+2021-06-24 22:05:55.523 [main] DEBUG AutomationPracticeSteps:63 - Expected Page Title: Login - My Store | Actual Page Title: Login - My Store
+2021-06-24 22:05:56.979 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (feb7e490971764744ee70904c22eefe9)] -> id: id_gender1]
+2021-06-24 22:05:57.226 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Victor in text box
+2021-06-24 22:05:57.444 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Okuneva in text box
+2021-06-24 22:05:57.709 [main] DEBUG AutomationPracticeSteps:49 - Entered text, carlyn.renner@yahoo.com in text box
+2021-06-24 22:05:57.927 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 21212121 in text box
+2021-06-24 22:05:58.360 [main] DEBUG AutomationPracticeSteps:70 - Option Selected from dropdown(by value): 27
+2021-06-24 22:05:58.783 [main] DEBUG AutomationPracticeSteps:70 - Option Selected from dropdown(by value): 9
+2021-06-24 22:05:59.208 [main] DEBUG AutomationPracticeSteps:70 - Option Selected from dropdown(by value): 2000
+2021-06-24 22:05:59.457 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Sybil in text box
+2021-06-24 22:05:59.700 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Windler in text box
+2021-06-24 22:05:59.966 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 6698 in text box
+2021-06-24 22:06:00.185 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Trompberg in text box
+2021-06-24 22:06:00.618 [main] DEBUG AutomationPracticeSteps:58 - Option Selected from dropdown(by text): Indiana
+2021-06-24 22:06:00.964 [main] DEBUG AutomationPracticeSteps:58 - Option Selected from dropdown(by text): United States
+2021-06-24 22:06:01.198 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 80808 in text box
+2021-06-24 22:06:01.438 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 09804823 in text box
+2021-06-24 22:06:01.717 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Business Address in text box
+2021-06-24 22:06:03.103 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+2021-06-24 22:06:03.836 [main] DEBUG AutomationPracticeSteps:63 - Expected Page Title: My account - My Store | Actual Page Title: My account - My Store
+2021-06-24 22:06:04.773 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:06:06.242 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:06:06.242 [main] INFO  utilities.BaseClass:28 - Opening browser for Automation Practice application
+2021-06-24 22:06:09.348 [main] INFO  utilities.BaseClass:62 - Opening Automation Practice application
+2021-06-24 22:06:12.064 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (c37420c43b59e22f11b9834526ce258b)] -> xpath: //a[contains(text(),'Sign in')]]
+2021-06-24 22:06:12.416 [main] INFO  AutomationPracticeSteps:49 - Cleared email field
+2021-06-24 22:06:12.558 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (c37420c43b59e22f11b9834526ce258b)] -> xpath: //button[@id='SubmitCreate']]
+2021-06-24 22:06:12.558 [main] INFO  AutomationPracticeSteps:51 - Clicked on Create Account Button
+2021-06-24 22:06:13.372 [main] INFO  AutomationPracticeSteps:82 - Expected text: Invalid email address. | Actual text: Invalid email address.
+2021-06-24 22:06:14.243 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:06:15.653 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:06:15.653 [main] INFO  utilities.BaseClass:21 - Opening browser for NewTours application
+2021-06-24 22:06:17.027 [main] INFO  utilities.BaseClass:58 - Opening New Tours application
+2021-06-24 22:06:19.223 [main] DEBUG NewToursSteps:58 - Option Selected from dropdown(by text): ANGOLA
+2021-06-24 22:06:20.809 [main] INFO  NewToursSteps:37 - Expected : Note: Your user name is Gareth. | Actual : Note: Your user name is Gareth.
+2021-06-24 22:06:21.696 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:06:23.076 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:06:23.076 [main] INFO  utilities.BaseClass:21 - Opening browser for NewTours application
+2021-06-24 22:06:24.506 [main] INFO  utilities.BaseClass:58 - Opening New Tours application
+2021-06-24 22:06:26.473 [main] DEBUG NewToursSteps:58 - Option Selected from dropdown(by text): ZAMBIA
+2021-06-24 22:06:28.161 [main] INFO  NewToursSteps:37 - Expected : Note: Your user name is Bill. | Actual : Note: Your user name is Bill.
+2021-06-24 22:06:29.122 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:06:30.639 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:06:30.639 [main] INFO  utilities.BaseClass:21 - Opening browser for NewTours application
+2021-06-24 22:06:32.031 [main] INFO  utilities.BaseClass:58 - Opening New Tours application
+2021-06-24 22:06:34.190 [main] DEBUG NewToursSteps:58 - Option Selected from dropdown(by text): ITALY
+2021-06-24 22:06:35.772 [main] INFO  NewToursSteps:37 - Expected : Note: Your user name is Jim. | Actual : Note: Your user name is Jim.
+2021-06-24 22:06:36.665 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:09:31.676 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:09:31.691 [main] INFO  utilities.BaseClass:35 - Opening browser for Air Asia application
+2021-06-24 22:09:31.842 [main] ERROR utilities.BaseClass:69 - Unable to open application. Provided name does not match any options
+2021-06-24 22:09:48.308 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:09:49.842 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:09:49.843 [main] INFO  utilities.BaseClass:28 - Opening browser for Automation Practice application
+2021-06-24 22:09:53.300 [main] INFO  utilities.BaseClass:62 - Opening Automation Practice application
+2021-06-24 22:09:55.812 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (f2eee6827f340a1200274202892f87b9)] -> xpath: //a[contains(text(),'Sign in')]]
+2021-06-24 22:09:56.775 [main] DEBUG AutomationPracticeSteps:49 - Entered text, virgilio.schumm@gmail.com in text box
+2021-06-24 22:09:57.002 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (f2eee6827f340a1200274202892f87b9)] -> xpath: //button[@id='SubmitCreate']]
+2021-06-24 22:09:57.253 [main] DEBUG AutomationPracticeSteps:63 - Expected Page Title: Login - My Store | Actual Page Title: Login - My Store
+2021-06-24 22:09:59.453 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:10:01.040 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:10:01.040 [main] INFO  utilities.BaseClass:28 - Opening browser for Automation Practice application
+2021-06-24 22:10:03.820 [main] INFO  utilities.BaseClass:62 - Opening Automation Practice application
+2021-06-24 22:10:04.520 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:15:05.056 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:15:05.066 [main] INFO  utilities.BaseClass:35 - Opening browser for Air Asia application
+2021-06-24 22:15:10.763 [main] INFO  utilities.BaseClass:66 - Opening Air Asia application
+2021-06-24 22:15:36.876 [main] DEBUG AirAsiaSteps:69 - Clicked on Search
+2021-06-24 22:15:40.899 [main] DEBUG AirAsiaSteps:80 - Current Window: CDwindow-2F36B3FCC7DD10E162E9CC07BBBB0F72
+2021-06-24 22:15:40.907 [main] DEBUG AirAsiaSteps:82 - Windows returned: CDwindow-2F36B3FCC7DD10E162E9CC07BBBB0F72
+2021-06-24 22:15:40.907 [main] DEBUG AirAsiaSteps:82 - Windows returned: CDwindow-09008C490D79623C3950E42DFD7AD950
+2021-06-24 22:15:40.907 [main] DEBUG AirAsiaSteps:84 - Inside if block working on Window CDwindow-09008C490D79623C3950E42DFD7AD950
+2021-06-24 22:15:53.500 [main] INFO  AirAsiaSteps:98 - Alert closed in catch block
+2021-06-24 22:15:53.500 [main] INFO  AirAsiaSteps:101 - Expected title: Del Carmen IAO – London LHR trips | Actual title: New Delhi DEL‎ – London LHR‎ trips
+2021-06-24 22:15:54.619 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:15:56.231 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:15:56.231 [main] INFO  utilities.BaseClass:28 - Opening browser for Automation Practice application
+2021-06-24 22:15:58.285 [main] INFO  utilities.BaseClass:62 - Opening Automation Practice application
+2021-06-24 22:17:03.417 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:17:03.425 [main] INFO  utilities.BaseClass:35 - Opening browser for Air Asia application
+2021-06-24 22:17:08.606 [main] INFO  utilities.BaseClass:66 - Opening Air Asia application
+2021-06-24 22:17:34.388 [main] DEBUG AirAsiaSteps:69 - Clicked on Search
+2021-06-24 22:17:38.743 [main] DEBUG AirAsiaSteps:80 - Current Window: CDwindow-15CC2331F3A759FD0DF02E55491B2591
+2021-06-24 22:17:38.743 [main] DEBUG AirAsiaSteps:82 - Windows returned: CDwindow-15CC2331F3A759FD0DF02E55491B2591
+2021-06-24 22:17:38.743 [main] DEBUG AirAsiaSteps:82 - Windows returned: CDwindow-3682D817A11E9A4620A92FA20CF911E1
+2021-06-24 22:17:38.743 [main] DEBUG AirAsiaSteps:84 - Inside if block working on Window CDwindow-3682D817A11E9A4620A92FA20CF911E1
+2021-06-24 22:17:51.228 [main] INFO  AirAsiaSteps:98 - Alert closed in catch block
+2021-06-24 22:17:51.228 [main] INFO  AirAsiaSteps:101 - Expected title: Del Carmen IAO – London LHR trips | Actual title: New Delhi DEL‎ – London LHR‎ trips
+2021-06-24 22:17:51.602 [main] INFO  AirAsiaFlightSearchPage:32 - Count of Flights found: 4
+2021-06-24 22:17:51.626 [main] DEBUG AirAsiaFlightSearchPage:34 - £366
+2021-06-24 22:17:51.648 [main] DEBUG AirAsiaFlightSearchPage:34 - £332
+2021-06-24 22:17:51.667 [main] DEBUG AirAsiaFlightSearchPage:34 - £341
+2021-06-24 22:17:51.687 [main] DEBUG AirAsiaFlightSearchPage:34 - £342
+2021-06-24 22:17:51.687 [main] INFO  AirAsiaSteps:108 - Total Flight search count : 4
+2021-06-24 22:17:52.659 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:17:54.217 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:17:54.217 [main] INFO  utilities.BaseClass:28 - Opening browser for Automation Practice application
+2021-06-24 22:17:55.639 [main] INFO  utilities.BaseClass:62 - Opening Automation Practice application
+2021-06-24 22:24:16.709 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:24:16.717 [main] INFO  utilities.BaseClass:35 - Opening browser for Air Asia application
+2021-06-24 22:24:22.358 [main] INFO  utilities.BaseClass:66 - Opening Air Asia application
+2021-06-24 22:24:45.358 [main] DEBUG AirAsiaSteps:70 - Clicked on Search
+2021-06-24 22:24:49.212 [main] DEBUG AirAsiaSteps:86 - Parent Window: CDwindow-8747E9171B58ED4A237691C7A310C3EA
+2021-06-24 22:24:49.212 [main] DEBUG AirAsiaSteps:88 - Windows returned: CDwindow-8747E9171B58ED4A237691C7A310C3EA
+2021-06-24 22:24:49.212 [main] DEBUG AirAsiaSteps:88 - Windows returned: CDwindow-878E9ACE2949F1A8EB6A1E521A8A760C
+2021-06-24 22:24:49.212 [main] DEBUG AirAsiaSteps:90 - Inside if block working on child Window CDwindow-878E9ACE2949F1A8EB6A1E521A8A760C
+2021-06-24 22:25:01.951 [main] INFO  AirAsiaSteps:104 - Alert closed in catch block
+2021-06-24 22:25:01.954 [main] INFO  AirAsiaSteps:107 - Expected title: New Delhi DEL – London LHR trips | Actual title: New Delhi DEL‎ – London LHR‎ trips
+2021-06-24 22:25:02.292 [main] INFO  AirAsiaFlightSearchPage:32 - Count of Flights found: 4
+2021-06-24 22:25:02.318 [main] DEBUG AirAsiaFlightSearchPage:34 - £366
+2021-06-24 22:25:02.334 [main] DEBUG AirAsiaFlightSearchPage:34 - £332
+2021-06-24 22:25:02.356 [main] DEBUG AirAsiaFlightSearchPage:34 - £341
+2021-06-24 22:25:02.371 [main] DEBUG AirAsiaFlightSearchPage:34 - £342
+2021-06-24 22:25:02.371 [main] INFO  AirAsiaSteps:114 - Total Flight search count : 4
+2021-06-24 22:25:03.403 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:25:05.182 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:25:05.183 [main] INFO  utilities.BaseClass:28 - Opening browser for Automation Practice application
+2021-06-24 22:25:06.623 [main] INFO  utilities.BaseClass:62 - Opening Automation Practice application
+2021-06-24 22:25:07.817 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:25:59.216 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:25:59.232 [main] INFO  utilities.BaseClass:35 - Opening browser for Air Asia application
+2021-06-24 22:26:06.329 [main] INFO  utilities.BaseClass:66 - Opening Air Asia application
+2021-06-24 22:26:29.045 [main] DEBUG AirAsiaSteps:70 - Clicked on Search
+2021-06-24 22:26:33.281 [main] DEBUG AirAsiaSteps:86 - Parent Window: CDwindow-D88B2733FFFD5233F0E077949C9C3962
+2021-06-24 22:26:33.281 [main] DEBUG AirAsiaSteps:88 - Windows returned: CDwindow-D88B2733FFFD5233F0E077949C9C3962
+2021-06-24 22:26:33.281 [main] DEBUG AirAsiaSteps:88 - Windows returned: CDwindow-F5E9B1C0D1BBF8DA988313E872A9CB74
+2021-06-24 22:26:33.281 [main] DEBUG AirAsiaSteps:90 - Inside if block working on child Window CDwindow-F5E9B1C0D1BBF8DA988313E872A9CB74
+2021-06-24 22:26:45.735 [main] INFO  AirAsiaSteps:104 - Alert closed in catch block
+2021-06-24 22:26:45.735 [main] INFO  AirAsiaSteps:107 - Expected title: New Delhi DEL – London LHR trips | Actual title: New Delhi DEL‎ – London LHR‎ trips
+2021-06-24 22:26:46.081 [main] INFO  AirAsiaFlightSearchPage:32 - Count of Flights found: 4
+2021-06-24 22:26:46.097 [main] DEBUG AirAsiaFlightSearchPage:34 - 
+2021-06-24 22:26:46.110 [main] DEBUG AirAsiaFlightSearchPage:34 - 
+2021-06-24 22:26:46.122 [main] DEBUG AirAsiaFlightSearchPage:34 - 
+2021-06-24 22:26:46.133 [main] DEBUG AirAsiaFlightSearchPage:34 - 
+2021-06-24 22:26:46.133 [main] INFO  AirAsiaSteps:114 - Total Flight search count : 4
+2021-06-24 22:26:47.136 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:26:48.823 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:26:48.823 [main] INFO  utilities.BaseClass:28 - Opening browser for Automation Practice application
+2021-06-24 22:26:51.875 [main] INFO  utilities.BaseClass:62 - Opening Automation Practice application
+2021-06-24 22:26:54.188 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (c9ecc51334c2c66107bf1b3e8e86f65a)] -> xpath: //a[contains(text(),'Sign in')]]
+2021-06-24 22:26:54.939 [main] DEBUG AutomationPracticeSteps:49 - Entered text, samara.macejkovic@gmail.com in text box
+2021-06-24 22:26:55.104 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (c9ecc51334c2c66107bf1b3e8e86f65a)] -> xpath: //button[@id='SubmitCreate']]
+2021-06-24 22:26:55.363 [main] DEBUG AutomationPracticeSteps:63 - Expected Page Title: Login - My Store | Actual Page Title: Login - My Store
+2021-06-24 22:26:56.852 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (c9ecc51334c2c66107bf1b3e8e86f65a)] -> id: id_gender1]
+2021-06-24 22:26:57.083 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Aleisha in text box
+2021-06-24 22:26:57.264 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Kuvalis in text box
+2021-06-24 22:26:57.489 [main] DEBUG AutomationPracticeSteps:49 - Entered text, trudy.windler@yahoo.com in text box
+2021-06-24 22:26:57.716 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 21212121 in text box
+2021-06-24 22:26:58.119 [main] DEBUG AutomationPracticeSteps:70 - Option Selected from dropdown(by value): 27
+2021-06-24 22:26:58.486 [main] DEBUG AutomationPracticeSteps:70 - Option Selected from dropdown(by value): 9
+2021-06-24 22:26:58.855 [main] DEBUG AutomationPracticeSteps:70 - Option Selected from dropdown(by value): 2000
+2021-06-24 22:26:59.019 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Zane in text box
+2021-06-24 22:26:59.240 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Blick in text box
+2021-06-24 22:26:59.428 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 89708 in text box
+2021-06-24 22:26:59.616 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Mitchview in text box
+2021-06-24 22:26:59.979 [main] DEBUG AutomationPracticeSteps:58 - Option Selected from dropdown(by text): Delaware
+2021-06-24 22:27:00.291 [main] DEBUG AutomationPracticeSteps:58 - Option Selected from dropdown(by text): United States
+2021-06-24 22:27:00.491 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 80808 in text box
+2021-06-24 22:27:00.673 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 09804823 in text box
+2021-06-24 22:27:00.928 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Home Address in text box
+2021-06-24 22:27:02.968 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+2021-06-24 22:27:03.688 [main] DEBUG AutomationPracticeSteps:63 - Expected Page Title: My account - My Store | Actual Page Title: My account - My Store
+2021-06-24 22:27:04.685 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:27:06.211 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:27:06.211 [main] INFO  utilities.BaseClass:28 - Opening browser for Automation Practice application
+2021-06-24 22:27:09.334 [main] INFO  utilities.BaseClass:62 - Opening Automation Practice application
+2021-06-24 22:27:11.502 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (ab9db9520c3767307190034abfaa7989)] -> xpath: //a[contains(text(),'Sign in')]]
+2021-06-24 22:27:12.030 [main] DEBUG AutomationPracticeSteps:49 - Entered text, genoveva.kling@yahoo.com in text box
+2021-06-24 22:27:12.199 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (ab9db9520c3767307190034abfaa7989)] -> xpath: //button[@id='SubmitCreate']]
+2021-06-24 22:27:12.471 [main] DEBUG AutomationPracticeSteps:63 - Expected Page Title: Login - My Store | Actual Page Title: Login - My Store
+2021-06-24 22:27:13.939 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (ab9db9520c3767307190034abfaa7989)] -> id: id_gender1]
+2021-06-24 22:27:14.264 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Ezequiel in text box
+2021-06-24 22:27:14.506 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Hettinger in text box
+2021-06-24 22:27:14.772 [main] DEBUG AutomationPracticeSteps:49 - Entered text, macy.funk@yahoo.com in text box
+2021-06-24 22:27:14.974 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 21212121 in text box
+2021-06-24 22:27:15.378 [main] DEBUG AutomationPracticeSteps:70 - Option Selected from dropdown(by value): 27
+2021-06-24 22:27:15.818 [main] DEBUG AutomationPracticeSteps:70 - Option Selected from dropdown(by value): 9
+2021-06-24 22:27:16.224 [main] DEBUG AutomationPracticeSteps:70 - Option Selected from dropdown(by value): 2000
+2021-06-24 22:27:16.456 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Kristal in text box
+2021-06-24 22:27:16.682 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Littel in text box
+2021-06-24 22:27:16.937 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 102 in text box
+2021-06-24 22:27:17.191 [main] DEBUG AutomationPracticeSteps:49 - Entered text, New Bentonborough in text box
+2021-06-24 22:27:17.616 [main] DEBUG AutomationPracticeSteps:58 - Option Selected from dropdown(by text): Indiana
+2021-06-24 22:27:17.978 [main] DEBUG AutomationPracticeSteps:58 - Option Selected from dropdown(by text): United States
+2021-06-24 22:27:18.200 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 80808 in text box
+2021-06-24 22:27:18.441 [main] DEBUG AutomationPracticeSteps:49 - Entered text, 09804823 in text box
+2021-06-24 22:27:18.725 [main] DEBUG AutomationPracticeSteps:49 - Entered text, Business Address in text box
+2021-06-24 22:27:20.371 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+2021-06-24 22:27:21.106 [main] DEBUG AutomationPracticeSteps:63 - Expected Page Title: My account - My Store | Actual Page Title: My account - My Store
+2021-06-24 22:27:22.049 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:27:23.772 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:27:23.773 [main] INFO  utilities.BaseClass:28 - Opening browser for Automation Practice application
+2021-06-24 22:27:26.896 [main] INFO  utilities.BaseClass:62 - Opening Automation Practice application
+2021-06-24 22:27:29.209 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (8111d92107eab296f5ceb58311adf3a3)] -> xpath: //a[contains(text(),'Sign in')]]
+2021-06-24 22:27:29.588 [main] INFO  AutomationPracticeSteps:49 - Cleared email field
+2021-06-24 22:27:29.775 [main] DEBUG AutomationPracticeSteps:41 - Clicked on button -> [[ChromeDriver: chrome on WINDOWS (8111d92107eab296f5ceb58311adf3a3)] -> xpath: //button[@id='SubmitCreate']]
+2021-06-24 22:27:29.775 [main] INFO  AutomationPracticeSteps:51 - Clicked on Create Account Button
+2021-06-24 22:27:31.156 [main] INFO  AutomationPracticeSteps:82 - Expected text: Invalid email address. | Actual text: Invalid email address.
+2021-06-24 22:27:32.086 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:27:33.914 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:27:33.914 [main] INFO  utilities.BaseClass:21 - Opening browser for NewTours application
+2021-06-24 22:27:35.253 [main] INFO  utilities.BaseClass:58 - Opening New Tours application
+2021-06-24 22:27:37.383 [main] DEBUG NewToursSteps:58 - Option Selected from dropdown(by text): ANGOLA
+2021-06-24 22:27:38.906 [main] INFO  NewToursSteps:37 - Expected : Note: Your user name is Gareth. | Actual : Note: Your user name is Gareth.
+2021-06-24 22:27:39.802 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:27:41.389 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:27:41.389 [main] INFO  utilities.BaseClass:21 - Opening browser for NewTours application
+2021-06-24 22:27:42.822 [main] INFO  utilities.BaseClass:58 - Opening New Tours application
+2021-06-24 22:27:44.841 [main] DEBUG NewToursSteps:58 - Option Selected from dropdown(by text): ZAMBIA
+2021-06-24 22:27:46.586 [main] INFO  NewToursSteps:37 - Expected : Note: Your user name is Bill. | Actual : Note: Your user name is Bill.
+2021-06-24 22:27:47.490 [main] INFO  utilities.BaseClass:50 - Closing browser
+2021-06-24 22:27:49.264 [main] DEBUG utilities.BaseClass:32 - Driver Initialized successfully
+2021-06-24 22:27:49.264 [main] INFO  utilities.BaseClass:21 - Opening browser for NewTours application
+2021-06-24 22:27:50.810 [main] INFO  utilities.BaseClass:58 - Opening New Tours application
+2021-06-24 22:27:52.821 [main] DEBUG NewToursSteps:58 - Option Selected from dropdown(by text): ITALY
+2021-06-24 22:27:54.410 [main] INFO  NewToursSteps:37 - Expected : Note: Your user name is Jim. | Actual : Note: Your user name is Jim.
+2021-06-24 22:27:55.277 [main] INFO  utilities.BaseClass:50 - Closing browser
